@@ -2,6 +2,7 @@
 
 int main(int, char**)
 {
+	int res = 0;
 	std::cout << "Hello";
-	return 0;
+	return res;
 }
